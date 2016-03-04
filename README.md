@@ -1,4 +1,4 @@
-__NOTE__ A fork of the original postgresql connector by w3.fi This version does not lowercase db column names 
+__NOTE__ A fork of the original 1.6 version of postgresql connector by w3.fi This version does not lowercase db column names 
 fixing issue: https://github.com/strongloop/loopback-connector-postgresql/issues/38. Also Strings map to 
 TEXT synonym type (with no arbitrary upper bound). - tuomas.tanner@w3.fi
 
